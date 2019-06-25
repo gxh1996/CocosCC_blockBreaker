@@ -1,0 +1,104 @@
+{
+  "assets-sort-type": "name",
+  "collision-matrix": [
+    [
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      null,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      null,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "design-resolution-height": 960,
+  "design-resolution-width": 640,
+  "excluded-modules": [
+    "Renderer Texture",
+    "Dynamic Atlas",
+    "Mask",
+    "Graphics",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "RichText",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditBox",
+    "VideoPlayer",
+    "WebView",
+    "Audio",
+    "AudioSource",
+    "Animation",
+    "Action",
+    "NodePool",
+    "StudioComponent",
+    "Intersection",
+    "Native Socket"
+  ],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": false,
+  "fit-width": true,
+  "group-list": [
+    "default",
+    "WALL",
+    "BOARD",
+    "BLOCK",
+    "BALL",
+    "prop"
+  ],
+  "last-module-event-record-time": 1559965888348,
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 1280,
+    "width": 640
+  },
+  "start-scene": "1825c524-91d0-4440-9d47-cf1d75b0d324",
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": true
+}

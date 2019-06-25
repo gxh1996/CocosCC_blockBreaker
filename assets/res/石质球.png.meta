@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8be9c8cd-ea53-4bc1-9987-c7a1fe505340",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "石质球": {
+      "ver": "1.0.3",
+      "uuid": "4fc976a2-2fd7-40ee-a6b8-9b2ba8074627",
+      "rawTextureUuid": "8be9c8cd-ea53-4bc1-9987-c7a1fe505340",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 22,
+      "height": 22,
+      "rawWidth": 22,
+      "rawHeight": 22,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
